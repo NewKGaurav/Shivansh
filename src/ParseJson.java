@@ -9,6 +9,12 @@ public class ParseJson {
  System.out.println(js.getInt("courses.size"));
  System.out.println(js.get("dashboard.purchaseamount").toString());
  System.out.println(js.get("courses[0].title").toString());
+ System.out.println("GIT HUB");
+
+	}
+	public static  void getData()
+	{
+		System.out.println("My first demo project on git");
 	}
 
 }
